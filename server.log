@@ -1,0 +1,36 @@
+[33m>[39m Building...
+[32m√[39m Building...
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m                      [2m | [22m[1mRaw size[22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m                     [2m | [22m[36m49.51 kB[39m[2m | [22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m                       [2m | [22m[36m11.37 kB[39m[2m | [22m
+[32mchunk-5N3T3I2J.js[39m  [2m | [22m[2m-[22m                          [2m | [22m[36m10.24 kB[39m[2m | [22m
+[32mchunk-QHOK3W5R.js[39m  [2m | [22m[2m-[22m                          [2m | [22m [36m5.07 kB[39m[2m | [22m
+[32mchunk-RVMV24TS.js[39m  [2m | [22m[2m-[22m                          [2m | [22m [36m2.87 kB[39m[2m | [22m
+[32mchunk-Y5RQAIA6.js[39m  [2m | [22m[2m-[22m                          [2m | [22m [36m1.50 kB[39m[2m | [22m
+[32mpolyfills.js[39m       [2m | [22m[2mpolyfills[22m                  [2m | [22m[36m95 bytes[39m[2m | [22m
+
+[1m [22m                  [2m | [22m[1mInitial total[22m              [2m | [22m[1m80.65 kB[22m
+
+[1mLazy chunk files[22m   [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw size[22m
+[32mchunk-QX22MNZP.js[39m  [2m | [22m[2mcustomers-list-page[22m        [2m | [22m[36m63.90 kB[39m[2m | [22m
+[32mchunk-AARW5OBK.js[39m  [2m | [22m[2msettings-page[22m              [2m | [22m[36m25.35 kB[39m[2m | [22m
+[32mchunk-ZME7P4PC.js[39m  [2m | [22m[2m-[22m                          [2m | [22m[36m21.77 kB[39m[2m | [22m
+[32mchunk-USPO2E4U.js[39m  [2m | [22m[2mworkspace-demo-content-page[22m[2m | [22m[36m16.19 kB[39m[2m | [22m
+[32mchunk-JGIKZJKC.js[39m  [2m | [22m[2mapp-shell-component[22m        [2m | [22m[36m15.66 kB[39m[2m | [22m
+[32mchunk-LMIDCNKQ.js[39m  [2m | [22m[2mcustomer-detail-page[22m       [2m | [22m[36m14.70 kB[39m[2m | [22m
+[32mchunk-GT6X2XOX.js[39m  [2m | [22m[2mprofile-page[22m               [2m | [22m[36m13.17 kB[39m[2m | [22m
+[32mchunk-7W44L6V5.js[39m  [2m | [22m[2mdetail-demo-content-page[22m   [2m | [22m[36m13.03 kB[39m[2m | [22m
+[32mchunk-JWRHN5US.js[39m  [2m | [22m[2mreset-password-page[22m        [2m | [22m[36m10.61 kB[39m[2m | [22m
+[32mchunk-XKSTHTOF.js[39m  [2m | [22m[2mlogin-page[22m                 [2m | [22m[36m10.16 kB[39m[2m | [22m
+[32mchunk-JH7LPS3G.js[39m  [2m | [22m[2mregister-page[22m              [2m | [22m[36m10.09 kB[39m[2m | [22m
+[32mchunk-O7GWUBEK.js[39m  [2m | [22m[2mwizard-demo-shell-page[22m     [2m | [22m[36m10.09 kB[39m[2m | [22m
+[32mchunk-S6HRPHEV.js[39m  [2m | [22m[2mforgot-password-page[22m       [2m | [22m [36m8.56 kB[39m[2m | [22m
+[32mchunk-53KMW7UW.js[39m  [2m | [22m[2mdashboard-page[22m             [2m | [22m [36m8.51 kB[39m[2m | [22m
+[32mchunk-UP33BGE5.js[39m  [2m | [22m[2mdetail-demo-shell-page[22m     [2m | [22m [36m7.81 kB[39m[2m | [22m
+[2m...and 18 more lazy chunks files. Use "--verbose" to show all the files.[22m
+
+Application bundle generation complete. [26.925 seconds] - 2026-06-08T11:33:53.173Z
+
+Watch mode enabled. Watching for file changes...
+NOTE: Raw file sizes do not reflect development server per-request transformations.
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m4200[22m/[39m

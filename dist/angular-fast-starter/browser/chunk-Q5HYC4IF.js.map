@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/core/toast/app-toast.service.ts"],
+  "sourcesContent": ["import { inject, Injectable } from '@angular/core';\nimport { MessageService } from 'primeng/api';\n\n@Injectable({ providedIn: 'root' })\nexport class AppToastService {\n  private readonly messages = inject(MessageService);\n\n  success(summary: string, detail?: string) {\n    this.messages.add({ severity: 'success', summary, detail });\n  }\n\n  error(summary: string, detail?: string) {\n    this.messages.add({ severity: 'error', summary, detail });\n  }\n\n  info(summary: string, detail?: string) {\n    this.messages.add({ severity: 'info', summary, detail });\n  }\n}\n\n"],
+  "mappings": ";;;;;;;;;;;AAIM,IAAO,mBAAP,MAAO,iBAAe;EAD5B,cAAA;AAEmB,SAAA,WAAW,OAAO,cAAc;;EAEjD,QAAQ,SAAiB,QAAe;AACtC,SAAK,SAAS,IAAI,EAAE,UAAU,WAAW,SAAS,OAAM,CAAE;EAC5D;EAEA,MAAM,SAAiB,QAAe;AACpC,SAAK,SAAS,IAAI,EAAE,UAAU,SAAS,SAAS,OAAM,CAAE;EAC1D;EAEA,KAAK,SAAiB,QAAe;AACnC,SAAK,SAAS,IAAI,EAAE,UAAU,QAAQ,SAAS,OAAM,CAAE;EACzD;;;mCAbW,kBAAe;AAAA;oFAAf,kBAAe,SAAf,iBAAe,WAAA,YADF,OAAM,CAAA;AAC1B,IAAO,kBAAP;;sEAAO,iBAAe,CAAA;UAD3B;WAAW,EAAE,YAAY,OAAM,CAAE;;;",
+  "names": []
+}
